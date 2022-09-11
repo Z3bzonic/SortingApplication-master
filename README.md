@@ -1,3 +1,3 @@
 # SortingApplication-master
 
-### Goel : Reform application to SOLID principles
+### Goal : Reform application to SOLID principles
